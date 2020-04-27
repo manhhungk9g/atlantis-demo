@@ -1,2 +1,2 @@
-resource "null_resource" "example" {
+resource "new_resource" "example" {
 }
